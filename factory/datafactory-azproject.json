@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-azproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "059c3f60-c7fd-43e1-8244-7b30ca15c8a7",
+		"tenantId": "eb485f12-00e6-4848-bbf2-9e2d5ce236a4"
+	}
+}
